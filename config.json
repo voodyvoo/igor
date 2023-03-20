@@ -1,0 +1,12 @@
+{
+  "datapath": "data/commands_audios/",
+  "sequencepath": "data/commands_sequences/",
+  "checkpointpath": "training_1/cp.ckpt",
+  "modelpath": "saved_model/my_model",
+  "input_shape": [
+    124,
+    129,
+    1
+  ],
+  "num_labels": 12
+}
